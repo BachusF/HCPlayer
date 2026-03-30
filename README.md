@@ -8,6 +8,10 @@
 
 <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 
+<h2> 다운로드 </h2>
+
+[최신 버전 다운로드 받기](https://github.com/BachusF/HCPlayer/releases/latest)
+
 <h2>사용법</h2> 
 
 잘 안보이면 이미지를 클릭해보세요
