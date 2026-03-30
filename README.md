@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=50&duration=3000&pause=1500&color=000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Headphone+Channel+Player)](https://git.io/typing-svg)
 
 
-<h1>아카라이브 헤드폰 채널에 공유하기 위해 만든 간단한 음원 재생기 입니다.</h1>
+<h1>아카라이브 헤드폰 채널에 공유용 간단 음원 재생기</h1>
 
 <h2>지원 플랫폼 : </h2> 
 
