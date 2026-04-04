@@ -7,6 +7,9 @@
 <h2>지원 플랫폼 : </h2> 
 
 <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+**리눅스는 우분투에서만 테스트 해봤습니다. 리눅스 버전은 아이콘이 적용되지 않는 문제가 있습니다.**
 
 <h2> 다운로드 </h2>
 
