@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 **리눅스는 우분투에서만 테스트 해봤습니다. 리눅스 버전은 아이콘이 적용되지 않는 문제가 있습니다.**
+**최신버전은 리눅스를 지원하지 않습니다. 리눅스 버전은 1.0.0 입니다. (빌드 귀찮음 이슈)**
 
 <h2> 다운로드 </h2>
 
